@@ -9,6 +9,7 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - **Arama Özelliği**: Arama çubuğu ile belirli kitapları arayabilirsiniz.  
 - **Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
 - **Kitap detaylarında aşağıdaki bilgiler yer alır**:
+- Kitap başlığı
 - Yazar
 - Çıkış yılı
 - Sayfa sayısı
