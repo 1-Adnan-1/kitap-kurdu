@@ -32,5 +32,5 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 ![ZightRecording2024-12-16at10 48 21PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f05c7985-15fa-4586-8a18-1bd6036baf6c)
 
 # 2-) Hata Meajı 
--(**bu özelliği gösterebilmekmek için elle müdahele ettim**)
+(**bu özelliği gösterebilmekmek için elle müdahele ettim 💪🏻**)
 ![ZightRecording2024-12-16at10 56 39PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ca5ac08c-42c4-45a6-bfbe-3a5985f4ef30)
