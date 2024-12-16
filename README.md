@@ -21,7 +21,7 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - A-Z (alfabetik artan)
 - Z-A (alfabetik azalan)
   
-**☠️ Hata Mesajları**:
+# ☠️ Hata Mesajları:
 -api'dan hatalı veri gelir ve geçersiz bir sayfaya gidildiğinde hata mesajı gösterilir
 - Kullanıcıyı ana sayfaya yönlendiren bir buton bulunmaktadır.
 - Aranan kitap bulunamadığında(**Listede olmayan kitap**) Hata mesajı verir.
