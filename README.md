@@ -7,7 +7,7 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - **Ana Sayfa**: Proje başlatıldığında ana sayfa görüntülenir.
 - **Ürünler Sayfası**: Kitaplar liste halinde görüntülenir.
 
-- **3 farklı listeleme seçeneği**:
+# 3 farklı listeleme seçeneği:
 - Varsayılan (karışık)
 - A-Z (alfabetik artan)
 - Z-A (alfabetik azalan)
