@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Zengin Baba Yoksul Baba",
+      "author": "Robert Kiyosaki",
+      "image": "https://picsum.photos/901",
+      "year": 1977,
+      "page": 400,
+      "price": 300,
+      "description": "Zengin Baba Yoksul Baba, finansal geleceklerinin kontrolünü eline almak isteyenler için bir başlangıç noktasıdır.",
+      "category": "kişisel gelişim"
+    },
+    {
+      "id": 2,
+      "title": "Etkili İnsanların 7 Alışkanlığı",
+      "author": "Stephen R. Covey",
+      "image": "https://picsum.photos/902",
+      "year": 1989,
+      "page": 372,
+      "price": 250,
+      "description": "Başarılı ve etkili bir yaşam için rehber bir eser.",
+      "category": "kişisel gelişim"
+    },
+    {
+      "id": 3,
+      "title": "Sapiens: Hayvanlardan Tanrılara",
+      "author": "Yuval Noah Harari",
+      "image": "https://picsum.photos/903",
+      "year": 2011,
+      "page": 464,
+      "price": 350,
+      "description": "İnsanlık tarihini anlamaya yönelik bir başyapıt.",
+      "category": "tarih"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/904",
+      "year": 1949,
+      "page": 328,
+      "price": 200,
+      "description": "Distopya edebiyatının en önemli eserlerinden biri.",
+      "category": "roman"
+    },
+    {
+      "id": 5,
+      "title": "Bülbülü Öldürmek",
+      "author": "Harper Lee",
+      "image": "https://picsum.photos/905",
+      "year": 1960,
+      "page": 281,
+      "price": 220,
+      "description": "Adalet ve insan hakları üzerine çarpıcı bir hikaye.",
+      "category": "roman"
+    },
+    {
+      "id": 6,
+      "title": "Düşün ve Zengin Ol",
+      "author": "Napoleon Hill",
+      "image": "https://picsum.photos/906",
+      "year": 1937,
+      "page": 320,
+      "price": 280,
+      "description": "Başarı ve zenginlik için motivasyonel bir rehber.",
+      "category": "kişisel gelişim"
+    },
+    {
+      "id": 7,
+      "title": "Hayvan Çiftliği",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/907",
+      "year": 1945,
+      "page": 112,
+      "price": 150,
+      "description": "Toplumsal eleştiriyi masalsı bir dille anlatan kısa bir roman.",
+      "category": "roman"
+    },
+    {
+      "id": 8,
+      "title": "Körlük",
+      "author": "Jose Saramago",
+      "image": "https://picsum.photos/908",
+      "year": 1995,
+      "page": 352,
+      "price": 270,
+      "description": "Modern dünyaya karanlık bir bakış.",
+      "category": "roman"
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter ve Felsefe Taşı",
+      "author": "J.K. Rowling",
+      "image": "https://picsum.photos/909",
+      "year": 1997,
+      "page": 223,
+      "price": 300,
+      "description": "Büyücülük dünyasında geçen unutulmaz bir macera.",
+      "category": "fantastik"
+    },
+    {
+      "id": 10,
+      "title": "Küçük Prens",
+      "author": "Antoine de Saint-Exupéry",
+      "image": "https://picsum.photos/910",
+      "year": 1943,
+      "page": 96,
+      "price": 120,
+      "description": "Hem çocuklar hem de yetişkinler için derin bir hikaye.",
+      "category": "çocuk"
+    }
+  ]
+}
