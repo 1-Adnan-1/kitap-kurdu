@@ -6,13 +6,13 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 
 - **Ana Sayfa**: Proje başlatıldığında ana sayfa görüntülenir.
 - **Ürünler Sayfası**: Kitaplar liste halinde görüntülenir.
+- **Arama Özelliği**: Arama çubuğu ile belirli kitapları arayabilirsiniz.
 
 # 3 farklı listeleme seçeneği:
 - Varsayılan (karışık)
 - A-Z (alfabetik artan)
 - Z-A (alfabetik azalan)
-
-**Arama Özelliği**: Arama çubuğu ile belirli kitapları arayabilirsiniz.
+- 
 **Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
 
 **Kitap detaylarında aşağıdaki bilgiler yer alır**:
