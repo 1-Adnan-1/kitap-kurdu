@@ -1,8 +1,8 @@
-# Kitap Kurdu
+# 📚 Kitap Kurdu
 Kitap Kurdu, React kullanılarak geliştirilmiş bir kitap listeleme ve detay görüntüleme uygulamasıdır.
 Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını inceleyebilir. Fake bir API (db.json) kullanılarak veriler yönetilmektedir.
 
-# Projenin Özellikleri
+# 🚀 Projenin Özellikleri
 
 - **Ana Sayfa**: Proje başlatıldığında ana sayfa görüntülenir.
 - **Ürünler Sayfası**: Kitaplar liste halinde görüntülenir.
@@ -16,17 +16,17 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - Fiyat
 - Özet
 
-# 3 farklı listeleme seçeneği:
+# 🎗️ 3 farklı listeleme seçeneği:
 - Varsayılan (karışık)
 - A-Z (alfabetik artan)
 - Z-A (alfabetik azalan)
   
-**Hata Mesajları**:
+**☠️ Hata Mesajları**:
 -api'dan hatalı veri gelir ve geçersiz bir sayfaya gidildiğinde hata mesajı gösterilir
 - Kullanıcıyı ana sayfaya yönlendiren bir buton bulunmaktadır.
 - Aranan kitap bulunamadığında(**Listede olmayan kitap**) Hata mesajı verir.
 
-# 2 adet ekran görüntüsü vardır
+# 📷 2 adet ekran görüntüsü vardır
 
 # 1-) Ana sayfa, özellikler
 ![ZightRecording2024-12-16at10 48 21PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f05c7985-15fa-4586-8a18-1bd6036baf6c)
