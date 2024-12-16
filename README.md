@@ -7,14 +7,7 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - **Ana Sayfa**: Proje başlatıldığında ana sayfa görüntülenir.
 - **Ürünler Sayfası**: Kitaplar liste halinde görüntülenir.
 - **Arama Özelliği**: Arama çubuğu ile belirli kitapları arayabilirsiniz.
-
-# 3 farklı listeleme seçeneği:
-- Varsayılan (karışık)
-- A-Z (alfabetik artan)
-- Z-A (alfabetik azalan)
-- 
-**Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
-
+-**Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
 **Kitap detaylarında aşağıdaki bilgiler yer alır**:
 - Yazar
 - Çıkış yılı
@@ -22,6 +15,11 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - Fiyat
 - Özet
 
+# 3 farklı listeleme seçeneği:
+- Varsayılan (karışık)
+- A-Z (alfabetik artan)
+- Z-A (alfabetik azalan)
+  
 **Hata Mesajları**:
 -api'dan hatalı veri gelir ve geçersiz bir sayfaya gidildiğinde hata mesajı gösterilir
 - Kullanıcıyı ana sayfaya yönlendiren bir buton bulunmaktadır.
