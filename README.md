@@ -7,8 +7,8 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - **Ana Sayfa**: Proje başlatıldığında ana sayfa görüntülenir.
 - **Ürünler Sayfası**: Kitaplar liste halinde görüntülenir.
 - **Arama Özelliği**: Arama çubuğu ile belirli kitapları arayabilirsiniz.  
--**Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
-**Kitap detaylarında aşağıdaki bilgiler yer alır**:
+- **Kitap Detayları**: Kitap kartındaki "Detayı Gör" butonuna tıklanarak detay sayfasına gidilir.
+- **Kitap detaylarında aşağıdaki bilgiler yer alır**:
 - Yazar
 - Çıkış yılı
 - Sayfa sayısı
