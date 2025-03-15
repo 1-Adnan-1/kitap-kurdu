@@ -34,7 +34,7 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 - Kullanıcıyı ana sayfaya yönlendiren bir buton bulunmaktadır.
 - Aranan kitap bulunamadığında(**Listede olmayan kitap**) Hata mesajı verir.
 
-# 📷 2 adet ekran görüntüsü vardır
+# 📷 3 adet ekran görüntüsü vardır
 
 # 1-) Ana sayfa, özellikler
 
