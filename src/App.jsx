@@ -6,6 +6,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Detail from "./pages/Detail";
 import NotFound from "./pages/NotFound";
+import RomanSayfasi from "./pages/Roman";
+import HikayeSayfasi from "./pages/Hikaye";
 
 function App() {
   return (
@@ -16,8 +18,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/ürünler" element={<Product />} />
           <Route path="/kategori" element={<Category />}>
-            <Route path="hikaye" element={<h1>Hikaye Sayfası</h1>} />
-            <Route path="roman" element={<h1>Roman Sayfası</h1>} />
+            <Route path="hikaye" element={<HikayeSayfasi />} />
+            <Route path="roman" element={<RomanSayfasi />} />
           </Route>
           <Route path="/detay/:id" element={<Detail />} />
           <Route path="*" element={<NotFound />} />

@@ -9,7 +9,8 @@
       "page": 400,
       "price": 300,
       "description": "Zengin Baba Yoksul Baba, finansal geleceklerinin kontrolünü eline almak isteyenler için bir başlangıç noktasıdır.",
-      "category": "kişisel gelişim"
+      "category": "Kişisel Gelişim",
+      "type": "Hikaye"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "page": 372,
       "price": 250,
       "description": "Başarılı ve etkili bir yaşam için rehber bir eser.",
-      "category": "kişisel gelişim"
+      "category": "Kişisel Gelişim",
+      "type": "Hikaye"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "page": 464,
       "price": 350,
       "description": "İnsanlık tarihini anlamaya yönelik bir başyapıt.",
-      "category": "tarih"
+      "category": "Tarih",
+      "type": "Roman"
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "page": 328,
       "price": 200,
       "description": "Distopya edebiyatının en önemli eserlerinden biri.",
-      "category": "roman"
+      "category": "Roman",
+      "type": "Roman"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "page": 281,
       "price": 220,
       "description": "Adalet ve insan hakları üzerine çarpıcı bir hikaye.",
-      "category": "roman"
+      "category": "Roman",
+      "type": "Roman"
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "page": 320,
       "price": 280,
       "description": "Başarı ve zenginlik için motivasyonel bir rehber.",
-      "category": "kişisel gelişim"
+      "category": "Kişisel Gelişim",
+      "type": "Hikaye"
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "page": 112,
       "price": 150,
       "description": "Toplumsal eleştiriyi masalsı bir dille anlatan kısa bir roman.",
-      "category": "roman"
+      "category": "Roman",
+      "type": "Roman"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "page": 352,
       "price": 270,
       "description": "Modern dünyaya karanlık bir bakış.",
-      "category": "roman"
+      "category": "Roman",
+      "type": "Roman"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "page": 223,
       "price": 300,
       "description": "Büyücülük dünyasında geçen unutulmaz bir macera.",
-      "category": "fantastik"
+      "category": "Fantastik",
+      "type": "Hikaye"
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "page": 96,
       "price": 120,
       "description": "Hem çocuklar hem de yetişkinler için derin bir hikaye.",
-      "category": "çocuk"
+      "category": "Çocuk",
+      "type": "Hikaye"
     }
   ]
 }
