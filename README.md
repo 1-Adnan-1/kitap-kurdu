@@ -41,7 +41,8 @@ Kullanıcılar kitapları sıralayabilir, arama yapabilir ve kitap detaylarını
 ![ZightRecording2024-12-16at10 48 21PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f05c7985-15fa-4586-8a18-1bd6036baf6c)
 
 # 2-) Kategori sayfası
-![Kategori](ZightRecording2025-03-15at10.03.14PM-ezgif.com-video-to-gif-converter.gif)
+
+![ZightRecording2025-03-15at10 03 14PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d25244ff-3fbd-4267-98a7-5d7ae5d13637)
 
 # 3-) Hata Mesajı
 
